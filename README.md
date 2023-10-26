@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭I'm a Front End Developer.<br>🤔Highly Interested in Machine Learning<br>🌱I'm currently learning React JS<br>😄Love to Play Video Games and Basket Ball<br>
+🔭I'm a Front End Developer and an Open Source Enthusiast.<br>🤔Highly Interested in Machine Learning<br>🌱I'm currently learning React JS<br>😄Love to Play Video Games and Basket Ball<br>
 
 
 ## 🌐 Socials:
